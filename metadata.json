@@ -1,0 +1,6 @@
+{
+  "name": "Botsuana Studio Beauty Room",
+  "description": "Salón de belleza, estilismo, micropigmentación y cuidado personal en Col. Vasco de Quiroga. Servicios profesionales y atención personalizada.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
